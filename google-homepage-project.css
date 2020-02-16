@@ -11,7 +11,7 @@ li {
     display: inline 
 }
 
-#right header{
+#rightheader{
     float: right; 
 } 
 
@@ -22,22 +22,23 @@ ul {
 } 
 #GoogleAccountLogo{
     color: white;
-    background-color: purple;
+    background-color: purple; 
+    width:20px
 }
 
 /*Body Section*/ 
 body {
     margin: auto;
     width: 50%;
-    padding:50px;
+    padding:100px;
 }
 
 #searchbar{
-    width:75%;
+    width:100%;
 }
 /*Footer*/ 
 footer{
-    background-color: lightslategray;
+    background-color: whitesmoke;
 }
 #rightfooter{
     float: right;
