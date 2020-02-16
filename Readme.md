@@ -5,4 +5,6 @@ This is the readme for my html project for TOP
         For the header, decided to split it into two different div. We'll see how it works 
 
 2/16/20 
+    Started CSS 
+    Added Header and Footer 
     
