@@ -9,3 +9,9 @@ This is the readme for my html project for TOP
     Added Header and Footer 
     Running into problems having header and footer all inline
         might need to do away with separate div for right and left and do css in the html code
+
+2/20/20 
+    Working on getting the height of everything right 
+    using height: 200px instead of padding. We'll see if it works 
+    
+    
