@@ -31,20 +31,20 @@ ul {
     display: block;
     margin: auto;
     width: 50%;
-    padding: 100px;
+    position: relative;
 }
 
 #searchbar{
     display: block;
     margin: auto;
     width: 100%;
-    padding: 100px
+    /*padding: 100px*/
 }
 
 #buttons {
     display: block;
     margin: auto;
-    padding: 100px
+    /*padding: 100px*/
 }
 
 /*Footer*/ 
