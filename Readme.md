@@ -14,4 +14,5 @@ This is the readme for my html project for TOP
     Working on getting the height of everything right 
     using height: 200px instead of padding. We'll see if it works 
     
-    
+2/26/20
+    Using Codepen was able to get a decent replica goin
